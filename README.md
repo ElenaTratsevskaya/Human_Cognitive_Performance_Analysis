@@ -1,7 +1,12 @@
 # Human_Cognitive_Performance_Analysis
-Analyzing the Impact of Sleep, Stress, Diet, and Screen Time on Human Cognitive<br><br>
+Analyzing the Impact of Sleep, Stress, Diet, and Screen Time on Human Cognitive<br>
+Анализ влияния сна, стресса, диеты и экранного времени на когнитивные способности человека<br><br>
 
-**Отчёт построен как пример подходов к выбору цветографического решения для дашбрда.**<br>
+<div id="header" align="center">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/06/Screenshot_2023-06-19_132606.png" title="tableau" width="223" height="100"/>&nbsp;
+</div><br>
+
+### Отчёт построен как пример подходов к выбору цветографического решения для дашбрда <br>
 
 Данные взяты с [Kaggle](https://www.kaggle.com/datasets/samxsam/human-cognitive-performance-analysis?resource=download)<br><br>
 
@@ -30,10 +35,10 @@ Analyzing the Impact of Sleep, Stress, Diet, and Screen Time on Human Cognitive<
 Регулярные упражнения ⬆️ улучшают когнитивные способности<br>
 Более высокое потребление кофеина ⬇️ отрицательно влияет на когнитивные способности<br><br>
 
-Вариант в цвете Power BI<br>
+_Вариант в цвете Power BI_ <br>
 <img width="1324" height="743" alt="Dash_1" src="https://github.com/user-attachments/assets/584cf787-5a8e-4883-b0b1-1a1e95fc349a" /><br><br>
 
-Монохромный вариант Power BI<br>
+_Монохромный вариант Power BI_ <br>
 <img width="1202" height="672" alt="Dash_2" src="https://github.com/user-attachments/assets/9db19477-af8a-41fc-8d8f-02f224b5eaeb" /><br><br>
 
 В визуал я взяла основные показатели:<br>
@@ -45,7 +50,7 @@ Analyzing the Impact of Sleep, Stress, Diet, and Screen Time on Human Cognitive<
 ⏩ В фильтрах: Возраст, Гендерный признак, Тип диеты, Частота Упражнений.<br>
 ❗ Вот это самое интересное, как, например, по разному влияет кофеин на основные показатели у женщин и мужчин.<br><br>
 
-Монохромный вариант Tableau<br>
+_Монохромный вариант Tableau_<br>
 <img width="1460" height="775" alt="Dash_3" src="https://github.com/user-attachments/assets/2565d92d-0929-4669-8774-643b70c5bf60" /><br><br>
 
 
